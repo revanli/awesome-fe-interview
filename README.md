@@ -11,3 +11,5 @@
 - [2018前端面试总结，看完弄懂，工资少说加3K | 掘金技术征文](https://juejin.im/post/5b94d8965188255c5a0cdc02) - 比较全面
 - [front-end-interview-note](https://github.com/YOLO0927/front-end-interview-note)
 - [interview](https://github.com/revanli/interview)
+- [「中高级前端面试」JavaScript手写代码无敌秘籍](https://juejin.im/post/5c9c3989e51d454e3a3902b6)
+- [春招季如何横扫 Javascript 面试核心考点(基础版)？](https://juejin.im/post/5c6ad9fde51d453c356e37d1)
