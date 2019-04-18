@@ -13,3 +13,5 @@
 - [interview](https://github.com/revanli/interview)
 - [「中高级前端面试」JavaScript手写代码无敌秘籍](https://juejin.im/post/5c9c3989e51d454e3a3902b6)
 - [春招季如何横扫 Javascript 面试核心考点(基础版)？](https://juejin.im/post/5c6ad9fde51d453c356e37d1)
+- [【周刊-1】三年大厂面试官-面试题精选及答案](https://juejin.im/post/5ca9de22e51d452b5372ed90)
+- [【周刊-2】三年大厂面试官-前端面试题（偏难）](https://juejin.im/post/5cb0315f518825215e61ec14)
