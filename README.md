@@ -17,3 +17,4 @@
 - [【周刊-2】三年大厂面试官-前端面试题（偏难）](https://juejin.im/post/5cb0315f518825215e61ec14)
 - [front-end-interview-handbook ★20429](https://github.com/yangshun/front-end-interview-handbook)
 - [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
+- [tech-interview-handbook](tech-interview-handbook)
