@@ -18,3 +18,4 @@
 - [front-end-interview-handbook ★20429](https://github.com/yangshun/front-end-interview-handbook)
 - [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
 - [tech-interview-handbook](tech-interview-handbook)
+- [冴羽的博客](https://github.com/mqyqingfeng/Blog)  javascript深入系列、专题系列，有深度，推荐阅读
